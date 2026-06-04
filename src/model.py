@@ -2,7 +2,7 @@
 # Project: Sentiment Analysis Engine (Social Media Monitoring)
 # Author: Zaid Seliya
 # UIN: 231A050
-# Department of Computer Engineering
+# Department of AI&DS Engineering
 # Rizvi College of Engineering
 # ==============================================================================
 
